@@ -2,6 +2,8 @@
 
 [![Climate Tech Handbook - logo - small - full color](https://user-images.githubusercontent.com/1459051/233495668-13a7bc63-28b2-444f-8827-765edb7bc0e8.png)](https://climatetechhandbook.com)
 
+_Note: this is brand spanking new, so please be nice :)_
+
 ## Our Mission:
 
 To build the world's most accessible and accurate resource for anyone using technology to address our climate emergency.
