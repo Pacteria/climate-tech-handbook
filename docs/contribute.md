@@ -26,7 +26,7 @@ To have the best handbook possible, we need three things:
 
 ---
 
-### Quality Journalism
+### Quality Journalis
 
 Journalism is about reporting the truth with fairness and accuracy.
 
